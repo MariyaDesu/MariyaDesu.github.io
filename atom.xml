@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mariya.top</id>
-    <title>Life is painting a picture, not doing a sum</title>
-    <subtitle>人生不得意十之八九</subtitle>
+    <title>人生不得意十之八九</title>
+    <subtitle>Life is painting a picture, Not doing a sum</subtitle>
     <icon>https://mariya.top/images/favicon.ico</icon>
     <link href="https://mariya.top" />
     <author>
-      <name>su</name>
+      <name>mariya</name>
     </author>
     <updated>2023-01-31T07:28:56.000Z</updated>
     <category term="前端" />

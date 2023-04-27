@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Life is painting a picture, not doing a sum</title>
-        <subtitle>人生不得意十之八九</subtitle>
+        <title>人生不得意十之八九</title>
+        <subtitle>Life is painting a picture, Not doing a sum</subtitle>
         <icon>https://mariya.top/images/favicon.ico</icon>
         <link>https://mariya.top</link>
         <author>
-          <name>su</name>
+          <name>mariya</name>
         </author>
         <description>与君共勉</description>
         <language>zh-CN</language>
