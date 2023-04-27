@@ -1,21 +1,19 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ysx.cosine.ren</id>
-    <title>余弦の博客</title>
-    <subtitle>WA的一声就哭了</subtitle>
-    <icon>https://ysx.cosine.ren/images/favicon.ico</icon>
-    <link href="https://ysx.cosine.ren" />
+    <id>https://mariya.top</id>
+    <title>Life is painting a picture, not doing a sum</title>
+    <subtitle>人生不得意十之八九</subtitle>
+    <icon>https://mariya.top/images/favicon.ico</icon>
+    <link href="https://mariya.top" />
     <author>
-      <name>cos</name>
+      <name>su</name>
     </author>
     <updated>2023-01-31T07:28:56.000Z</updated>
     <category term="前端" />
-    <category term=" React" />
-    <category term=" 全栈" />
     <entry>
-        <id>https://ysx.cosine.ren/vscode-plugin-recommended-2022/</id>
+        <id>https://mariya.top/vscode-plugin-recommended-2022/</id>
         <title>2022 前端开发 vscode 常用插件及其他工具推荐</title>
-        <link rel="alternate" href="https://ysx.cosine.ren/vscode-plugin-recommended-2022/"/>
+        <link rel="alternate" href="https://mariya.top/vscode-plugin-recommended-2022/"/>
         <content type="html">&lt;p&gt;总结了下自己的 2022 的常用前端插件以及工具推荐，虽然 vscode 自带的插件同步功能已经很齐全了，但是还是自己总结了一篇以备不时之需。原飞书文档链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9uZjJwanIzZTV0LmZlaXNodS5jbi9kb2N4L0V4QzBkdDJ0bG81c2ZFeFprOW9jS0hMa25sZQ==&#34;&gt;‍2022 前端开发 vscode 常用插件及其他工具推荐&lt;/span&gt;&lt;/p&gt;
 &lt;h1 id=&#34;vscode-常用插件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vscode-常用插件&#34;&gt;#&lt;/a&gt; vscode 常用插件&lt;/h1&gt;
 &lt;h2 id=&#34;开发类&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#开发类&#34;&gt;#&lt;/a&gt; 开发类&lt;/h2&gt;
@@ -183,9 +181,9 @@
 &lt;h1 id=&#34;待补充&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#待补充&#34;&gt;#&lt;/a&gt; 待补充&lt;/h1&gt;
 &lt;p&gt;... 如有推荐的插件可以评论&lt;/p&gt;
 </content>
-        <category term="工具" scheme="https://ysx.cosine.ren/categories/tools/" />
-        <category term="前端" scheme="https://ysx.cosine.ren/tags/%E5%89%8D%E7%AB%AF/" />
-        <category term="vscode" scheme="https://ysx.cosine.ren/tags/vscode/" />
+        <category term="工具" scheme="https://mariya.top/categories/tools/" />
+        <category term="前端" scheme="https://mariya.top/tags/%E5%89%8D%E7%AB%AF/" />
+        <category term="vscode" scheme="https://mariya.top/tags/vscode/" />
         <updated>2023-01-31T07:28:56.000Z</updated>
     </entry>
 </feed>

@@ -1,27 +1,25 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>余弦の博客</title>
-        <subtitle>WA的一声就哭了</subtitle>
-        <icon>https://ysx.cosine.ren/images/favicon.ico</icon>
-        <link>https://ysx.cosine.ren</link>
+        <title>Life is painting a picture, not doing a sum</title>
+        <subtitle>人生不得意十之八九</subtitle>
+        <icon>https://mariya.top/images/favicon.ico</icon>
+        <link>https://mariya.top</link>
         <author>
-          <name>cos</name>
+          <name>su</name>
         </author>
-        <description>愿岁并谢，与友长兮</description>
+        <description>与君共勉</description>
         <language>zh-CN</language>
         <pubDate>Tue, 31 Jan 2023 15:28:56 +0800</pubDate>
         <lastBuildDate>Tue, 31 Jan 2023 15:28:56 +0800</lastBuildDate>
         <category term="前端" />
-        <category term=" React" />
-        <category term=" 全栈" />
         <item>
-            <guid isPermalink="true">https://ysx.cosine.ren/vscode-plugin-recommended-2022/</guid>
+            <guid isPermalink="true">https://mariya.top/vscode-plugin-recommended-2022/</guid>
             <title>2022 前端开发 vscode 常用插件及其他工具推荐</title>
-            <link>https://ysx.cosine.ren/vscode-plugin-recommended-2022/</link>
-            <category term="工具" scheme="https://ysx.cosine.ren/categories/tools/" />
-            <category term="前端" scheme="https://ysx.cosine.ren/tags/%E5%89%8D%E7%AB%AF/" />
-            <category term="vscode" scheme="https://ysx.cosine.ren/tags/vscode/" />
+            <link>https://mariya.top/vscode-plugin-recommended-2022/</link>
+            <category term="工具" scheme="https://mariya.top/categories/tools/" />
+            <category term="前端" scheme="https://mariya.top/tags/%E5%89%8D%E7%AB%AF/" />
+            <category term="vscode" scheme="https://mariya.top/tags/vscode/" />
             <pubDate>Tue, 31 Jan 2023 15:28:56 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;总结了下自己的 2022 的常用前端插件以及工具推荐，虽然 vscode 自带的插件同步功能已经很齐全了，但是还是自己总结了一篇以备不时之需。原飞书文档链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9uZjJwanIzZTV0LmZlaXNodS5jbi9kb2N4L0V4QzBkdDJ0bG81c2ZFeFprOW9jS0hMa25sZQ==&#34;&gt;‍2022 前端开发 vscode 常用插件及其他工具推荐&lt;/span&gt;&lt;/p&gt;
 &lt;h1 id=&#34;vscode-常用插件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vscode-常用插件&#34;&gt;#&lt;/a&gt; vscode 常用插件&lt;/h1&gt;
