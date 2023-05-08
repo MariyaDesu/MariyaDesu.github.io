@@ -11,9 +11,9 @@
     <updated>2023-03-31T07:28:56.000Z</updated>
     <category term="前端" />
     <entry>
-        <id>https://mariya.top/javascript%20One%20line%20of%20code/</id>
+        <id>https://mariya.top/javascript-One-line-of-code/</id>
         <title>Javascript 一行代码</title>
-        <link rel="alternate" href="https://mariya.top/javascript%20One%20line%20of%20code/"/>
+        <link rel="alternate" href="https://mariya.top/javascript-One-line-of-code/"/>
         <content type="html">&lt;hr /&gt;
 &lt;h2 id=&#34;日期处理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#日期处理&#34;&gt;#&lt;/a&gt; 日期处理&lt;/h2&gt;
 &lt;h3 id=&#34;检查日期是否有效&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#检查日期是否有效&#34;&gt;#&lt;/a&gt; 检查日期是否有效&lt;/h3&gt;
@@ -62,35 +62,11 @@
         <updated>2023-03-31T07:28:56.000Z</updated>
     </entry>
     <entry>
-        <id>https://mariya.top/vue3%20-%201/</id>
+        <id>https://mariya.top/vue3-1/</id>
         <title>从0开始学Vue-第一章</title>
-        <link rel="alternate" href="https://mariya.top/vue3%20-%201/"/>
+        <link rel="alternate" href="https://mariya.top/vue3-1/"/>
         <content type="html">&lt;hr /&gt;
-&lt;p&gt;总结了下自己的 2022 的常用前端插件以及工具推荐，虽然 vscode 自带的插件同步功能已经很齐全了，但是还是自己总结了一篇以备不时之需。原飞书文档链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9uZjJwanIzZTV0LmZlaXNodS5jbi9kb2N4L0V4QzBkdDJ0bG81c2ZFeFprOW9jS0hMa25sZQ==&#34;&gt;‍2022 前端开发 vscode 常用插件及其他工具推荐&lt;/span&gt;&lt;/p&gt;
-&lt;h1 id=&#34;vscode-常用插件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vscode-常用插件&#34;&gt;#&lt;/a&gt; vscode 常用插件&lt;/h1&gt;
-&lt;h2 id=&#34;开发类&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#开发类&#34;&gt;#&lt;/a&gt; 开发类&lt;/h2&gt;
-&lt;h3 id=&#34;gitlens-git-supercharged&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#gitlens-git-supercharged&#34;&gt;#&lt;/a&gt; GitLens — Git supercharged&lt;/h3&gt;
-&lt;p&gt;拓展了 vscode 本身集成的 Git 功能，提供了很多好东西&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/896ed607cf504cf2a182d247541cd145~tplv-k3u1fbpfcp-zoom-1.image&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;h3 id=&#34;auto-close-tag&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#auto-close-tag&#34;&gt;#&lt;/a&gt; Auto Close Tag&lt;/h3&gt;
-&lt;p&gt;自动闭合 HTML、JSX 标签&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/dc6e378b853b44cd9d8a17792c91c04a~tplv-k3u1fbpfcp-zoom-1.image&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;h3 id=&#34;auto-rename-tag&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#auto-rename-tag&#34;&gt;#&lt;/a&gt; Auto Rename Tag&lt;/h3&gt;
-&lt;p&gt;自动 rename 标签&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ca513e2974614bbcb89c73cf87aaa14a~tplv-k3u1fbpfcp-zoom-1.image&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;h3 id=&#34;change-case&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#change-case&#34;&gt;#&lt;/a&gt; change-case&lt;/h3&gt;
-&lt;p&gt;命名转换 Ctrl+Shift+P 输入 change case&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/588d36d067294b53bbf0c6b2f174a2d2~tplv-k3u1fbpfcp-zoom-1.image&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/03367e095e0e440caaff6e4af787ffdb~tplv-k3u1fbpfcp-zoom-1.image&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;h3 id=&#34;code-spell-checker&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#code-spell-checker&#34;&gt;#&lt;/a&gt; Code Spell Checker&lt;/h3&gt;
-&lt;p&gt;代码中的拼写检查&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a03c0981961d42ef9e8e311931bfc748~tplv-k3u1fbpfcp-zoom-1.image&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/08c094fba8f84c349e08726d58e75e7a~tplv-k3u1fbpfcp-zoom-1.image&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;h3 id=&#34;es7-reactreduxgraphqlreact-native-snippets&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#es7-reactreduxgraphqlreact-native-snippets&#34;&gt;#&lt;/a&gt; ES7 React/Redux/GraphQL/React-Native snippets&lt;/h3&gt;
-&lt;p&gt;React 代码片段，如题如图&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/90c733f72f704973b55355beaf1bf189~tplv-k3u1fbpfcp-zoom-1.image&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;h3 id=&#34;commit-message-editor&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#commit-message-editor&#34;&gt;#&lt;/a&gt; Commit Message Editor&lt;/h3&gt;
-&lt;p&gt;多人协作必备，git 提交信息的编辑&lt;/p&gt;
+&lt;h2 id=&#34;vue-的开始&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vue-的开始&#34;&gt;#&lt;/a&gt; Vue 的开始&lt;/h2&gt;
 </content>
         <category term="Vue" scheme="https://mariya.top/categories/vue/" />
         <category term="前端" scheme="https://mariya.top/tags/%E5%89%8D%E7%AB%AF/" />
