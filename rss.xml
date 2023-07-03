@@ -502,6 +502,21 @@ login OK 即为成功&lt;/p&gt;
  ]]></description>
         </item>
         <item>
+            <guid isPermalink="true">https://mariya.top/v4-ts-v3-pinia-model/</guid>
+            <title>Vite4.3+Typescript+Vue3+Pinia搭建前端项目</title>
+            <link>https://mariya.top/v4-ts-v3-pinia-model/</link>
+            <category term="front-end" scheme="https://mariya.top/categories/front-end/" />
+            <category term="前端" scheme="https://mariya.top/tags/%E5%89%8D%E7%AB%AF/" />
+            <category term="Vue" scheme="https://mariya.top/tags/Vue/" />
+            <category term="Vite" scheme="https://mariya.top/tags/Vite/" />
+            <category term="Typescript" scheme="https://mariya.top/tags/Typescript/" />
+            <category term="Pinia" scheme="https://mariya.top/tags/Pinia/" />
+            <pubDate>Wed, 31 May 2023 15:28:56 +0800</pubDate>
+            <description><![CDATA[ &lt;hr /&gt;
+&lt;h2 id=&#34;vue-的开始&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vue-的开始&#34;&gt;#&lt;/a&gt; Vue 的开始&lt;/h2&gt;
+ ]]></description>
+        </item>
+        <item>
             <guid isPermalink="true">https://mariya.top/node-js-1/</guid>
             <title>node-js</title>
             <link>https://mariya.top/node-js-1/</link>
